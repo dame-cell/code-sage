@@ -1,6 +1,6 @@
-build/
+E:\code-sage\build
 dist/
-*.egg-info/
+E:\code-sage\code_sage.egg-info
 venv/
 __pycache__/
 .vscode/
