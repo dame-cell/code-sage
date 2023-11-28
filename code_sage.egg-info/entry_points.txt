@@ -1,2 +1,0 @@
-[console_scripts]
-code-sage = code_sage.cli:read_code
