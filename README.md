@@ -41,6 +41,6 @@ Let's not forget that trained Neurel Networks ,  are just flaoting numbers store
 
 
 <div class="flex justify-center">
-    <img src="![fp32](https://github.com/huggingface/peft/assets/122996026/d988aa91-989e-4ba1-bc6b-096b1170e1cf"/>
+    <img src="!![Screenshot (18)](https://github.com/dame-cell/code-sage/assets/122996026/8b06259f-7ef0-477c-92ea-8daf40107b15)"/>
 </div>
 
